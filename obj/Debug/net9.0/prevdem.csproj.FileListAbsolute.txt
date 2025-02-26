@@ -1,0 +1,14 @@
+/Users/hcl/Dev/prevdem/obj/Debug/net9.0/prevdem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hcl/Dev/prevdem/obj/Debug/net9.0/prevdem.AssemblyInfoInputs.cache
+/Users/hcl/Dev/prevdem/obj/Debug/net9.0/prevdem.AssemblyInfo.cs
+/Users/hcl/Dev/prevdem/obj/Debug/net9.0/prevdem.csproj.CoreCompileInputs.cache
+/Users/hcl/Dev/prevdem/buildoutput/prevdem
+/Users/hcl/Dev/prevdem/buildoutput/prevdem.deps.json
+/Users/hcl/Dev/prevdem/buildoutput/prevdem.runtimeconfig.json
+/Users/hcl/Dev/prevdem/buildoutput/prevdem.dll
+/Users/hcl/Dev/prevdem/buildoutput/prevdem.pdb
+/Users/hcl/Dev/prevdem/obj/Debug/net9.0/prevdem.dll
+/Users/hcl/Dev/prevdem/obj/Debug/net9.0/refint/prevdem.dll
+/Users/hcl/Dev/prevdem/obj/Debug/net9.0/prevdem.pdb
+/Users/hcl/Dev/prevdem/obj/Debug/net9.0/prevdem.genruntimeconfig.cache
+/Users/hcl/Dev/prevdem/obj/Debug/net9.0/ref/prevdem.dll
